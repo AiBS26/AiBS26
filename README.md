@@ -1,6 +1,8 @@
-### Hi there 👋
+<h2 align="center">Hi! I'm Aigerim!</h2>
 
-### Tech stack
+<h2 align="center">Tech stack</h2>
+<br><br>
+<div align="center">
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=for-the-badge&logo=Redux)
@@ -13,3 +15,4 @@
 ![Eslint](https://img.shields.io/badge/-Eslint-000000?style=for-the-badge&logo=Eslint&logoColor=blue)
 ![Babel](https://img.shields.io/badge/-Babel-000000?style=for-the-badge&logo=Babel)
 ![Webpack](https://img.shields.io/badge/-Webpack-000000?style=for-the-badge&logo=Webpack)
+</div>
